@@ -1,4 +1,6 @@
-I Like Gaming
+Hi There! 👋
+---
+Im Ksbsksnsjsn And I Love Gaming
 
 <!---
 DantaNotEpic/DantaNotEpic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
