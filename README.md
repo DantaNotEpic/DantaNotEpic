@@ -4,7 +4,7 @@ Hewwo there humans! I'm a 14 y.o student That Love Games And A Little Code.
 My Favorite game is like Minecraft And Roblox.
 And My Favorite Coding Language Is Html And Css. Why, Because Its Easy.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DantaNotEpic&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DantaNotEpic&show_icons=true&theme=react)
 
 <!---
 DantaNotEpic/DantaNotEpic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
